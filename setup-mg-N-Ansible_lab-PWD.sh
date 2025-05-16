@@ -1,4 +1,6 @@
-!/bin/bash
+#!/bin/bash
+
+# Script pour automatiser un  Node Manger sur PWD (Play With Docker) pour un Laboratoire ANSIBLE
 
 # Mettre à jour et installer Python + OpenSSH
 apk update && apk upgrade
